@@ -14,4 +14,7 @@ O código realiza outras funções como a plotagem dos graficos de amplitude do 
 
 A placa de aquisição de dados pode ser impressa em PCB, seu arquivo schematic e design estão no zip "pcb-eagle.7z"
 
-O modelo 3D utilizado na protese foi a Humanoid Robotic Hand de Grossrc, que tem seus arquivos .stl a disposição no Thingiverse: https://www.thingiverse.com/thing:2269115 
+O modelo 3D utilizado na protese foi a Humanoid Robotic Hand de Grossrc, que tem seus arquivos .stl a disposição no Thingiverse: https://www.thingiverse.com/thing:2269115
+
+O código utilizado para treinamento da rede neural convolucional, pode ser encontrado neste Google Colab: https://colab.research.google.com/drive/1oSIblC-RFkph2l6Ze1JWYHVQboS2kvIU?usp=sharing
+
